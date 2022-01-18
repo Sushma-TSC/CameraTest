@@ -1,0 +1,16 @@
+{
+    "name": "e2eplaywright",
+    "version": "1.0.0",
+    "description": "Web app UI end to end tests",
+    "directories": {
+        "test": "tests"
+    },
+    "devDependencies": {
+        "@playwright/test": "1.17.2",
+        "playwright": "1.17.2"
+    },
+    "dependencies": {
+        "imap-simple": "5.1.0",
+        "twilio": "3.73.0"
+    }
+}

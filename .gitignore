@@ -1,0 +1,9 @@
+test-results
+playwright-report
+.idea
+node_modules
+package-lock.json
+test-results.json
+.DS_Store
+.env*
+testFailedVideo/*
